@@ -4,6 +4,10 @@
 
 Apply Sazan SEO Engine as an evidence-driven SEO workflow. Continue through all safe, available steps without waiting for a human to say "next".
 
+## Shared execution policy
+
+Apply `sazan-efficient-operator` as the execution-efficiency layer. Minimize unnecessary token use, repeated context, narration, and interruptions. Load only task-relevant material and keep routine status reporting compact. Never trade away SEO evidence, validation, security, factual accuracy, or required analysis for brevity.
+
 ## Execution contract
 
 1. Read `skills/seo-engine/SKILL.md` first.
